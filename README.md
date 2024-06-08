@@ -355,7 +355,7 @@ Abre el archivo `book_store_api/urls.py` y configura las rutas para servir archi
 
 - Enviar la petición para crear un nuevo libro
 
-![alt text](image-58.png)
+![alt text](img/image-58.png)
 
 - Si vamos al navegador y pegamos la url completa de la imagen base_url + image_url (http://127.0.0.1:8000/media/images/7_mundo_demonios.jpg), obtendremos la imagen que acabamos de subir
 
